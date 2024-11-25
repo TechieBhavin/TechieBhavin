@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 Software Engineering Student | 💡 Problem Solver | 📚 Open Source Contributor</h3>
+<h3 align="center">👨‍💻 Aspiring Software Engineer | 💡 Problem Solver | 📚 Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
