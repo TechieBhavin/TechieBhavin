@@ -70,6 +70,13 @@
   <img src="https://leetcard.jacoblin.cool/TechieBhavin?ext=heatmap&theme=dark" alt="LeetCode Stats">
 </p>
 
+### 🌟 GeeksforGeeks Stats
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?username=your-username" alt="GFG Stats">
+</p>
+
+---
+
 ### 🏆 Achievements
 - 🌟 Contributed to open-source projects and shared solutions on GitHub.  
 - 🏅 Completed **100-Day Coding Streak** on CodeChef.  
