@@ -19,6 +19,9 @@
   <a href="https://codechef.com/users/techiebhavin" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
+    <a href="https://leetcode.com/u/TechieBhavin" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LeetCode">
+  </a>
   
 </p>
 
