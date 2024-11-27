@@ -57,18 +57,20 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techiebhavin&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiebhavin&theme=radical" alt="GitHub Streak">
+</p>
+
+---
 
 ### 🔢 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TechieBhavin?ext=heatmap&theme=dark" alt="LeetCode Stats">
 </p>
 
-### 🌟 GeeksforGeeks Stats
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/username=techiebhavin?ext=heatmap&theme=dark" alt="GFG Stats">
-</p>
 
----
 
 ### 🏆 Achievements
 - 🌟 Contributed to open-source projects and shared solutions on GitHub.  
