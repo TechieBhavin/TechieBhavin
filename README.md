@@ -22,6 +22,9 @@
     <a href="https://leetcode.com/u/TechieBhavin" target="_blank">
     <img src="https://img.shields.io/badge/leetCode-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LeetCode">
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/techiebhavin/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
   
 </p>
 
