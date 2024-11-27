@@ -10,13 +10,13 @@
 <h3 align="center">👨‍💻 Aspiring Software Engineer | 💡 Problem Solver | 📚 Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/TechieBhavin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/techie.bhavin" target="_blank">
+  <a href="https://github.com/techiebhavin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://codechef.com/users/your-profile" target="_blank">
+  <a href="https://codechef.com/users/techiebhavin" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
   
