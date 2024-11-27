@@ -72,7 +72,7 @@
 
 ### 🌟 GeeksforGeeks Stats
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?username=techiebhavin" alt="GFG Stats">
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/username=techiebhavin?ext=heatmap&theme=dark" alt="GFG Stats">
 </p>
 
 ---
