@@ -38,16 +38,13 @@
 
 ---
 
+### 🔢 LeetCode Stats
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/TechieBhavin/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
  
 </p>
 <p align="center">
-
- 
-
-### 🔢 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TechieBhavin?ext=heatmap&theme=dark" alt="LeetCode Stats">
 </p>
