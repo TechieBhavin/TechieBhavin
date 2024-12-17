@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://leetcode-badge.deta.dev/?TechieBhavin=your-username&style=for-the-badge&name=Easy-Solved" alt="Easy Problems Solved">
+  <img src="https://leetcode-badge.deta.dev/?username=your-TechieBhavin&style=for-the-badge&name=50-Days-badge" alt="50 Days Badge">
 </p>
 
 ### 🔢 LeetCode Stats
