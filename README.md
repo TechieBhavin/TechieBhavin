@@ -72,6 +72,11 @@
 </p>
 <p align="center">
 
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/TechieBhavin?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 ### 🔢 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TechieBhavin?ext=heatmap&theme=dark" alt="LeetCode Stats">
