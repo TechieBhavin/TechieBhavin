@@ -54,13 +54,6 @@
 
 
 
-### 🏆 Achievements
-- 🌟 Contributed to open-source projects and shared solutions on GitHub.  
-- 🏅 Completed **100-Day Coding Streak** on CodeChef.  
-- 📘 Actively documenting my **GfG160 Challenge** journey.  
-
----
-
 ### 📩 Connect with Me
 <p align="center">
   <a href="mailto:bhavin@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -68,4 +61,4 @@
   <a href="https://www.youtube.com/TechieBhavin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-<p align="center">✨ **Thank you for visiting! Feel free to check out my work and connect.** ✨</p>
+
