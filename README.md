@@ -65,9 +65,12 @@
 
 ---
 
+<h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <img src="https://leetcode-badge.deta.dev/?username=your-TechieBhavin&style=for-the-badge&name=50-Days-badge" alt="50 Days Badge">
+  <a href="https://leetcode.com/TechieBhavin/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+ 
 </p>
+<p align="center">
 
 ### 🔢 LeetCode Stats
 <p align="center">
