@@ -30,33 +30,6 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Final-Year MSc IT Student** with a passion for software engineering and technology.  
-- 💻 Currently working on **safety-focused mobile applications** integrating wearable tech for emergency response.  
-- 🌱 I’m on a journey to enhance my skills through **160-Day GfG Challenge** and **90-Day DSA Challenge**.  
-- 👨‍🎨 Content creator at [Techie Bhavin](https://www.youtube.com/TechieBhavin) and blogger sharing tech insights.  
-- 🏆 Achieved **100-Day Coding Streak on CodeChef**.  
-
----
-
-### 🌟 Skills and Interests
-- **Programming:** Java, Python, SQL, Dart (Flutter), HTML, CSS.  
-- **Tech Interests:** Artificial Intelligence, Machine Learning, AR/VR, Web & Mobile App Development.  
-- **Currently Learning:** Deep Learning and Dimensionality Reduction.
-
----
-
-### 📂 Featured Projects
-- **Immortal Presence: AR Integration**  
-  <p>Using AR to preserve memories of loved ones.</p>
-  <a href="https://github.com/your-repo-link" target="_blank"><strong>Explore Project ➡️</strong></a>
-
-- **Emergency Safety System**  
-  <p>Wearable and app-based solution for emergency notifications.</p>
-  <a href="https://github.com/your-repo-link" target="_blank"><strong>Explore Project ➡️</strong></a>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techiebhavin&show_icons=true&theme=radical" alt="GitHub Stats">
