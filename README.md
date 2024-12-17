@@ -65,6 +65,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://leetcode-badge.deta.dev/?TechieBhavin=your-username&style=for-the-badge&name=Easy-Solved" alt="Easy Problems Solved">
+</p>
+
 ### 🔢 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TechieBhavin?ext=heatmap&theme=dark" alt="LeetCode Stats">
