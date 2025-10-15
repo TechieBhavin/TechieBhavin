@@ -38,20 +38,6 @@
 
 ---
 
-### 🔢 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/TechieBhavin/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /><a href="https://leetcode.com/TechieBhavin/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="jyot" height="200" width="200" /></a>
- <a href="https://leetcode.com/TechieBhavin/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
- 
-</p>
-<p align="center">
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TechieBhavin?ext=heatmap&theme=dark" alt="LeetCode Stats">
-</p>
-
-
-
 ### 📩 Connect with Me
 <p align="center">
   <a href="mailto:bhavin@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
