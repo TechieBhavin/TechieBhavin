@@ -4,8 +4,6 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 
 ---
 
----
-
 <h3 align="center">👨‍💻 Aspiring Software Engineer | 💡 Problem Solver | 📚 Open Source Contributor</h3>
 
 <p align="center">
