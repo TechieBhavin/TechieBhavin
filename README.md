@@ -1,9 +1,8 @@
-<!-- GitHub Profile README -->
-<h1 align="center">Hi, I'm Bhavin Patel 👋</h1>
+<h2 align="left">Hi Developers 👋!</h2>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/71187875-6009c780-2256-11ea-824f-1b3d2ddada62.gif" alt="Developer at work" width="500">
-</p>
+I’m a passionate **Java Full Stack Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in **competitive programming** as beginner, securing impressive positions in various competitions.
+
+---
 
 ---
 
